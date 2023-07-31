@@ -43,3 +43,7 @@ The game seamlessly integrates with the Solana blockchain, providing players wit
 
 Solana/web3.js, spl-token, Metaplex, Shyft
 
+
+#GamePlay test Video
+https://drive.google.com/drive/folders/1oaNzloCdKFYtxYxuzm5jfxmeiX7BRzp6?usp=sharing
+
